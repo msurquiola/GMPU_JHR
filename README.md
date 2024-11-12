@@ -16,7 +16,7 @@ For the Census data there is one datafile:
 
 **Do files**
 	
-For the administrative data there are three dofiles:
+For the administrative data there are three Do files:
 - replication_data_1.do (Table 1 Panel A, Table 2 and Figure 2 in the paper)
 - replication_data_2.do (Tables 3, 4, 5, App. Table 2, App. Table 5 in the paper for the school level analysis)
 - replication_data_3.do (Tables 3, 4, 7, App. Table 3 in the paper for the track level analysis)
