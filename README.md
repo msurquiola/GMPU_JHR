@@ -20,6 +20,7 @@ For the administrative data there are three dofiles:
 - replication_data_1.do (Table 1 Panel A, Table 2 and Figure 2 in the paper)
 - replication_data_2.do (Tables 3, 4, 5, App. Table 2, App. Table 5 in the paper for the school level analysis)
 - replication_data_3.do (Tables 3, 4, 7, App. Table 3 in the paper for the track level analysis)
+- replication_prepare_2.do (this Do file loads in JHR_data_2.dta, and produces ready_to_reweight.dta, which is used by replication_data_4.do)
 - replication_data_4.do (Table 8, results of the reweighting estimator)
 
 For the survey data there is one dofile:
